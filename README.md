@@ -1,1 +1,1 @@
-# MAS_Warehouse_organization
+# Multi-agents system with JADE for warehouse organization
